@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there, my name is Dawud 👋
+
+### This is my portfolio 😄
+
+Website: [dawudg.dev](https://dawudg.dev)
+
+
 
 <!--
 **dawudg/dawudg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
